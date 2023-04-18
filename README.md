@@ -1,7 +1,12 @@
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ExDragine&show_icons=true&include_all_commits=true&hide_border=true" alt="ExDragine's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExDragine&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 - 👋 Hi, I’m @ExDragine
 - 👀 I’m interested in astronomy and astrophysics
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me? 📜Email:surfaceluck@outlook.com
+
+  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,lua,java,cs,md,vscode,idea,git,powershell,bash,github,linkedin,stackoverflow,ps,pr,au,discord,azure,blender&perline=7)](https://skillicons.dev)
 
 - Where there is discord, may we bring harmony.
 - Where there is error, may we bring truth.
