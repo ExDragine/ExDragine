@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me? 📜Email:surfaceluck@outlook.com
 
-  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,lua,java,cs,md,vscode,idea,git,powershell,bash,github,linkedin,stackoverflow,ps,pr,au,discord,azure,blender&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,cpp,cs,java,lua,dotnet,fastapi,bots,vscode,idea,git,powershell,bash,github,linkedin,stackoverflow,ps,pr,au,discord,twitter&perline=8)](https://skillicons.dev)
 
 - Where there is discord, may we bring harmony.
 - Where there is error, may we bring truth.
