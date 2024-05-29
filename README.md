@@ -2,9 +2,9 @@
 | ------------- | ------------- |
 
 - 👋 Hi, I’m @ExDragine
-- 👀 I’m interested in astronomy and astrophysics
+- ✨ I’m interested in astronomy and astrophysics
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me? 📜Email:surfaceluck@outlook.com
+- 📫 How to reach me? 📜Email:ExDragine@outlook.com
 
   [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,cpp,cs,java,lua,dotnet,fastapi,bots,vscode,idea,git,powershell,bash,github,linkedin,stackoverflow,ps,pr,au,discord,twitter&perline=8)](https://skillicons.dev)
 
