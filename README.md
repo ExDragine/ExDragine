@@ -4,9 +4,9 @@
 - 👋 Hi, I’m @ExDragine
 - ✨ I’m interested in astronomy and astrophysics
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me? 📜Email:ExDragine@outlook.com
+- 🤗 Nice to meet you.
 
-  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,c,cpp,cs,java,lua,dotnet,fastapi,bots,vscode,idea,git,powershell,bash,github,linkedin,stackoverflow,ps,pr,au,discord,twitter&perline=8)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,cs,java,lua,dotnet,fastapi,vscode,idea,git,powershell,bash&perline=7)](https://skillicons.dev)
 
 - Where there is discord, may we bring harmony.
 - Where there is error, may we bring truth.
