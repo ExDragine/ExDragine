@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 🤗 Nice to meet you.
 
-  [![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,cpp,cs,java,lua,dotnet,fastapi,vscode,idea,git,powershell,bash&perline=7)](https://skillicons.dev)
-
 - Where there is discord, may we bring harmony.
 - Where there is error, may we bring truth.
 - Where there is doubt, may we bring faith.
